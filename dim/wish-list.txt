@@ -1,0 +1,4 @@
+title:Yogarine's DIM Wish List
+description:Contains Yogarine's favorite rolls
+
+dimwishlist:item=3710082365&perks=852209214,16392701,617966211,4290541820,3978094547#notes:pvp,
