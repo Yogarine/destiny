@@ -1,4 +1,20 @@
 title:Yogarine's DIM Wish List
 description:Contains Yogarine's favorite rolls
 
-dimwishlist:item=3710082365&perks=852209214,16392701,617966211,4290541820,3978094547#notes:pvp,
+dimwishlist:item=3710082365&perks=852209214,16392701,617966211,4290541820,3978094547#notes:pvp
+
+//notes:(PvP) StadiaTime's legendary "Eriana's Bow" Biting Winds roll; Moving Target, Swashbuckler, lowest Draw Time. If you get a melee kill off with this weapon active, it will one-crit for 4.5 seconds. Recommended MW: Draw Time.|tags:pvp,controller
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868|tags:pvp,controller
+
+// Biting Winds with Swashbuckler and minimal Draw Time.
+//notes:(PvP) Swashbuckler, lowest Draw Time. If you get a melee kill off with this weapon active, it will one-crit for 4.5 seconds. Recommended MW: Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=1621657423&perks=2801223209,4082225868
+
+// Judgement of Kelgorath
+//notes:(PvP) This is the perfect clean-up Glaive. As an Aggressive Glaive, it deals 125 damage, which will clean up all Bow shots. Impulse Amplifier massively increases the projectile speed, making it much easier to hit enemies, even at a distance. Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=2978226043&perks=1263609309,3721627275,3878366039,1607056502
+dimwishlist:item=2978226043&perks=1263609309,3721627275,951095735,1607056502
+
+// Albedo Wing
+//notes:(PvP) I was about to discard this weapon because it lacks Impulse Amplifier, but then my eyes fell on the perk Beacon Rounds. If that perk works as good as I hope it does, this could be interesting to play with. Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=2680976411&perks=1263609309,3721627275,2859149211,1607056502
