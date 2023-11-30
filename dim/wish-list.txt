@@ -1,20 +1,107 @@
 title:Yogarine's DIM Wish List
 description:Contains Yogarine's favorite rolls
 
-dimwishlist:item=3710082365&perks=852209214,16392701,617966211,4290541820,3978094547#notes:pvp
+//notes:(PvP) StadiaTime's legendary "Eriana's Bow" Biting Winds roll; Moving Target, Swashbuckler, lowest possible Draw Time. With Swashbuckler, when you get a melee kill off with this weapon active, it will turn into a one-shot monster for 4.5 seconds.|tags:pvp,controller
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,1639384016
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,3689550782
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,2203506848
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,2203506851
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,2203506850
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,2203506853
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,2203506852
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,2203506855
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,2203506854
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,2203506857
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,2203506856
 
-//notes:(PvP) StadiaTime's legendary "Eriana's Bow" Biting Winds roll; Moving Target, Swashbuckler, lowest Draw Time. If you get a melee kill off with this weapon active, it will one-crit for 4.5 seconds. Recommended MW: Draw Time.|tags:pvp,controller
-dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868|tags:pvp,controller
-
-// Biting Winds with Swashbuckler and minimal Draw Time.
-//notes:(PvP) Swashbuckler, lowest Draw Time. If you get a melee kill off with this weapon active, it will one-crit for 4.5 seconds. Recommended MW: Draw Time.|tags:pvp,mkb,controller
-dimwishlist:item=1621657423&perks=2801223209,4082225868
-
-// Judgement of Kelgorath
-//notes:(PvP) This is the perfect clean-up Glaive. As an Aggressive Glaive, it deals 125 damage, which will clean up all Bow shots. Impulse Amplifier massively increases the projectile speed, making it much easier to hit enemies, even at a distance. Recommended MW: Range.|tags:pvp,controller
-dimwishlist:item=2978226043&perks=1263609309,3721627275,3878366039,1607056502
-dimwishlist:item=2978226043&perks=1263609309,3721627275,951095735,1607056502
+// Bows with Swashbuckler and minimal Draw Time.
+//notes:(PvP) Swashbuckler, lowest Draw Time.  With Swashbuckler, when you get a melee kill off with this weapon active, it will turn into a one-shot monster for 4.5 seconds.|tags:pvp,mkb,controller
+dimwishlist:item=3317538576&perks=2801223209,4082225868,1639384016
+dimwishlist:item=3317538576&perks=2801223209,4082225868,3689550782
+dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506848
+dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506851
+dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506850
+dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506853
+dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506852
+dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506855
+dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506854
+dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506857
+dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506856
 
 // Albedo Wing
 //notes:(PvP) I was about to discard this weapon because it lacks Impulse Amplifier, but then my eyes fell on the perk Beacon Rounds. If that perk works as good as I hope it does, this could be interesting to play with. Recommended MW: Range.|tags:pvp,controller
 dimwishlist:item=2680976411&perks=1263609309,3721627275,2859149211,1607056502
+
+// Aggressive Glaives for PvP
+//notes:(PvP) This is the perfect clean-up Glaive. Aggressive Glaives deal enough damage to clean up any Bow body shot, while impulse Amplifier massively increases the projectile speed, making it much easier to hit enemies, even at a distance.|tags:pvp,controller
+dimwishlist:item=3871742104&perks=738339367,1263609309,3721627275,951095735
+dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,2697220197
+dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,684616255
+dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150943607
+dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150943604
+dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150943605
+dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150943602
+dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150943603
+dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150943600
+dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150943601
+dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150943614
+dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150943615
+
+////
+// Hash Reference
+//
+//
+// PERKS
+//
+// Origin Trait: Ambush                 = 192157151
+// Origin Trait: Hakke Breach Armaments = 1607056502
+//
+// Trait:        Impulse Amplifier      = 951095735
+// Trait: (enh.) Impulse Amplifier      = 3878366039
+// Trait:        Swashbuckler           = 4082225868
+//
+// Bow String:   Elastic String         = 2801223209
+// Bow String:   Flexible String        = 4067834857
+// Bow String:   Polymer String         = 852209214
+//
+// Bow Frame:    Lightweight Bow        = 2108556049
+//
+// Haft:         Balistic Tuning        = 1263609309
+//
+// Intrinsic:    Aggressive Glaive      = 1986105578
+// Intrinsic:    Aggressive Glaive -> Range = 738339367
+//
+// Magazine:     Swap Mag               = 3721627275
+//
+// Masterwork:   Range                  = 2697220197
+// Masterwork:   Range                  = 684616255
+// Masterwork:   Range     - Tier 1     = 150943607
+// Masterwork:   Range     - Tier 2     = 150943604
+// Masterwork:   Range     - Tier 3     = 150943605
+// Masterwork:   Range     - Tier 4     = 150943602
+// Masterwork:   Range     - Tier 5     = 150943603
+// Masterwork:   Range     - Tier 6     = 150943600
+// Masterwork:   Range     - Tier 7     = 150943601
+// Masterwork:   Range     - Tier 8     = 150943614
+// Masterwork:   Range     - Tier 9     = 150943615
+// Masterwork:   Draw Time              = 1639384016
+// Masterwork:   Draw Time              = 3689550782
+// Masterwork:   Draw Time - Tier 1     = 2203506848
+// Masterwork:   Draw Time - Tier 2     = 2203506851
+// Masterwork:   Draw Time - Tier 3     = 2203506850
+// Masterwork:   Draw Time - Tier 4     = 2203506853
+// Masterwork:   Draw Time - Tier 5     = 2203506852
+// Masterwork:   Draw Time - Tier 6     = 2203506855
+// Masterwork:   Draw Time - Tier 7     = 2203506854
+// Masterwork:   Draw Time - Tier 8     = 2203506857
+// Masterwork:   Draw Time - Tier 9     = 2203506856
+//
+//
+// ITEMS
+//
+// Category: Bows                 = 3317538576
+// Category: Glaives              = 3871742104
+//
+// Glaive: Albedo Wing            = 2680976411
+// Glaive: Judgement of Kelgorath = 2978226043
+//
