@@ -17,7 +17,6 @@ dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868,220
 // Bows with Swashbuckler and minimal Draw Time.
 //notes:(PvP) Swashbuckler, lowest Draw Time.  With Swashbuckler, when you get a melee kill off with this weapon active, it will turn into a one-shot monster for 4.5 seconds.|tags:pvp,mkb,controller
 dimwishlist:item=3317538576&perks=2801223209,4082225868,1639384016
-dimwishlist:item=3317538576&perks=2801223209,4082225868,3689550782
 dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506848
 dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506851
 dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506850
@@ -27,6 +26,21 @@ dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506855
 dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506854
 dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506857
 dimwishlist:item=3317538576&perks=2801223209,4082225868,2203506856
+
+// Bows with Disruption Break, Elastic String, Disruption Break and Draw Time Masterwork
+//notes:(PvP) Disruption Break gives Kinetic Weapons a 50% damage buff. This means you'll be able to clean up with a Hand Cannon body shot if you hit an enemy with a crit from this bow.|tags:pvp
+dimwishlist:item=3317538576&perks=2801223209,2216471363,1639384016
+dimwishlist:item=3317538576&perks=2801223209,2216471363,2203506848
+dimwishlist:item=3317538576&perks=2801223209,2216471363,2203506850
+dimwishlist:item=3317538576&perks=2801223209,2216471363,2203506851
+dimwishlist:item=3317538576&perks=2801223209,2216471363,2203506852
+dimwishlist:item=3317538576&perks=2801223209,2216471363,2203506853
+dimwishlist:item=3317538576&perks=2801223209,2216471363,2203506854
+dimwishlist:item=3317538576&perks=2801223209,2216471363,2203506855
+dimwishlist:item=3317538576&perks=2801223209,2216471363,2203506856
+dimwishlist:item=3317538576&perks=2801223209,2216471363,2203506857
+dimwishlist:item=3317538576&perks=2801223209,2216471363,3048420653
+dimwishlist:item=3317538576&perks=2801223209,2216471363,3665558569
 
 // Albedo Wing
 //notes:(PvP) I was about to discard this weapon because it lacks Impulse Amplifier, but then my eyes fell on the perk Beacon Rounds. If that perk works as good as I hope it does, this could be interesting to play with. Recommended MW: Range.|tags:pvp,controller
@@ -47,8 +61,12 @@ dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150
 dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150943614
 dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150943615
 
+
 ////
-// Hash Reference
+// Hash Reference Table
+//
+// These are subdivided in groups (Traits, Bow Strings, Hafts, etc.) Outside Traits, it's not possible to have more than
+// one Perk per group on a weapon.
 //
 //
 // PERKS
@@ -60,6 +78,13 @@ dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150
 // Trait: (enh.) Impulse Amplifier      = 3878366039
 // Trait:        Swashbuckler           = 4082225868
 //
+// Trait:        Disruption Break       = 1683379515
+// Trait: (enh.) Disruption Break       = 2216471363
+//               Breaking an enemy's shield with this weapon makes them more vulnerable to Kinetic damage for a brief
+//               period.
+//               On Elemental, Barrier or Guardian Shield Break: Weakens the enemy, increasing Kinetic Damage dealt by
+//               50% for 5.5 seconds. Stacks with all other Debuffs as it is a Weapon Perk.
+//
 // Bow String:   Elastic String         = 2801223209
 // Bow String:   Flexible String        = 4067834857
 // Bow String:   Polymer String         = 852209214
@@ -68,33 +93,36 @@ dimwishlist:item=3871742104&perks=1986105578,1263609309,3721627275,951095735,150
 //
 // Haft:         Balistic Tuning        = 1263609309
 //
-// Intrinsic:    Aggressive Glaive      = 1986105578
-// Intrinsic:    Aggressive Glaive -> Range = 738339367
+// Intrinsic:    Glaive - Aggressive    = 1986105578
+// Intrinsic:    Glaive - Aggressive + Range Masterwork   = 738339367
+// Intrinsic:    Bow - Lightweight      = 2108556049
+// Intrinsic:    Bow - Lightweight + Draw Time Masterwork = 3048420653
+// Intrinsic:    Bow - Precision        = 715195141
+// Intrinsic:    Bow - Precision + Draw Time Masterwork   = 3665558569
 //
 // Magazine:     Swap Mag               = 3721627275
 //
-// Masterwork:   Range                  = 2697220197
-// Masterwork:   Range                  = 684616255
-// Masterwork:   Range     - Tier 1     = 150943607
-// Masterwork:   Range     - Tier 2     = 150943604
-// Masterwork:   Range     - Tier 3     = 150943605
-// Masterwork:   Range     - Tier 4     = 150943602
-// Masterwork:   Range     - Tier 5     = 150943603
-// Masterwork:   Range     - Tier 6     = 150943600
-// Masterwork:   Range     - Tier 7     = 150943601
-// Masterwork:   Range     - Tier 8     = 150943614
-// Masterwork:   Range     - Tier 9     = 150943615
-// Masterwork:   Draw Time              = 1639384016
-// Masterwork:   Draw Time              = 3689550782
-// Masterwork:   Draw Time - Tier 1     = 2203506848
-// Masterwork:   Draw Time - Tier 2     = 2203506851
-// Masterwork:   Draw Time - Tier 3     = 2203506850
-// Masterwork:   Draw Time - Tier 4     = 2203506853
-// Masterwork:   Draw Time - Tier 5     = 2203506852
-// Masterwork:   Draw Time - Tier 6     = 2203506855
-// Masterwork:   Draw Time - Tier 7     = 2203506854
-// Masterwork:   Draw Time - Tier 8     = 2203506857
-// Masterwork:   Draw Time - Tier 9     = 2203506856
+// Masterwork:   Range     - Tier  1    = 150943607
+// Masterwork:   Range     - Tier  2    = 150943604
+// Masterwork:   Range     - Tier  3    = 150943605
+// Masterwork:   Range     - Tier  4    = 150943602
+// Masterwork:   Range     - Tier  5    = 150943603
+// Masterwork:   Range     - Tier  6    = 150943600
+// Masterwork:   Range     - Tier  7    = 150943601
+// Masterwork:   Range     - Tier  8    = 150943614
+// Masterwork:   Range     - Tier  9    = 150943615
+// Masterwork:   Range     - Tier 10    = 684616255
+// Masterwork:   Range     - Tier 10    = 2697220197
+// Masterwork:   Draw Time - Tier  1    = 2203506848
+// Masterwork:   Draw Time - Tier  2    = 2203506851
+// Masterwork:   Draw Time - Tier  3    = 2203506850
+// Masterwork:   Draw Time - Tier  4    = 2203506853
+// Masterwork:   Draw Time - Tier  5    = 2203506852
+// Masterwork:   Draw Time - Tier  6    = 2203506855
+// Masterwork:   Draw Time - Tier  7    = 2203506854
+// Masterwork:   Draw Time - Tier  8    = 2203506857
+// Masterwork:   Draw Time - Tier  9    = 2203506856
+// Masterwork:   Draw Time - Tier 10    = 1639384016
 //
 //
 // ITEMS
